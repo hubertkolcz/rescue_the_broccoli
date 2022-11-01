@@ -42,8 +42,8 @@ The customer has on their side connected their shopping list to the same app, an
 </p>
 
 **Endpoints** by Piotr Andziak, Mira Metzeger, and Hubert Kołcz 
-*Made for the purpose of front-end testing during hackathon, 
-instances may be unavialable*
+*made for the purpose of front-end testing during hackathon, 
+instances may be unavailable*
 
 - API for uploading images:
 https://b3kuq9tjca.execute-api.eu-central-1.amazonaws.com/v1/rescuethebroccoli/1.jpg
