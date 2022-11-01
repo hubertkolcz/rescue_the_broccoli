@@ -2,7 +2,7 @@
 #### _The optimization solution for food products indexing process, common for both giant marketplaces and small food vendors._
 ![](logo.png)
 
-*Project was developed within 24 hours, during BGC Platinion hackathon in Amsterdam, 28-29.10.2022.*
+*Project was developed during BCG Platinion hackathon in Amsterdam, 28-29.10.2022.*
 
 **Introduction**
 
