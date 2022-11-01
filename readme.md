@@ -12,29 +12,34 @@ How? We are going to make much better use of the fruit and vegetables that expir
 
 The customer has on their side connected their shopping list to the same app, and will get a notification from the grocery stores when anything on their shopping list is added to the foodbox of expired food sold to a much lower price. So it’s not only about the sustainability aspect but has also a great impact on the economical aspect of it.
 
-**Client Design** 
-*by Michelle von Huth*
-
-![Getting Started](./design/client/b1.png)
-![Favorite dishes](./design/client/b2.png)
-![Ingridient details](./design/client/b3.png)
-![Shopping list](./design/client/b4.png)
-![Food boxes](./design/client/b5.png)
-![Summary](./design/client/b6.png)
-
-**Vendor Design** 
-*by Michelle von Huth*
-![Getting Started](./design/vendor/a1.png)
-![Food capturing](./design/vendor/a2.png)
-![Basket Summary](./design/vendor/a3.png)
-![Basket Overview](./design/vendor/a4.png)
-
 **Architecture** by Hubert Kołcz
 
 ![Data flow](architecture/data_flow.png)
 ![Database](architecture/database.png)
 ![Endpoints](architecture/endpoints.png)
 
+
+**Client Design** *by Michelle von Huth*
+
+<p float="left">
+<img src="./design/client/b1.png" width="300" />
+<img src="./design/client/b2.png" width="300" />
+<img src="./design/client/b3.png" width="300" />
+<img src="./design/client/b4.png" width="300" />
+<img src="./design/client/b5.png" width="300" />
+<img src="./design/client/b6.png" width="300" />
+</p>
+
+
+
+**Vendor Design** 
+*by Michelle von Huth*
+<p float="left">
+<img src="./design/vendor/a1.png" width="300" />
+<img src="./design/vendor/a2.png" width="300" />
+<img src="./design/vendor/a3.png" width="300" />
+<img src="./design/vendor/a4.png" width="300" />
+</p>
 
 **Endpoints** by Piotr Andziak, Mira Metzeger, and Hubert Kołcz 
 *Made for the purpose of front-end testing during hackathon, 
