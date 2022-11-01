@@ -8,7 +8,7 @@
 
 Did you know that UN estimated in 2022 that nearly half of the fruits and vegetables produced worldwide are wasted each year? We believe that our app can help reduce this number drastically. And did you know that food waste is responsible for around 10% of greenhouse gas emissions? This is exactly what we want to fix. 
 
-How? We are going to make much better use of the fruit and vegetables that expires in the grocery stores. With the already existing app called too-good-go they are not making their boxes of food personalised for the customers, so it turns out that most of that food is thrown out anyways. Therefore, we have designed an app that can scan an image of the fruits, then it automatically uploads exactly what is in the photo to the customer.
+How? We are going to make much better use of the fruit and vegetables that expires in the grocery stores. With the already existing app called too-good-to-go they are not making their boxes of food personalised for the customers, so it turns out that most of that food is thrown out anyways. Therefore, we have designed an app that can scan an image of the fruits, then it automatically uploads exactly what is in the photo to the customer.
 
 The customer has on their side connected their shopping list to the same app, and will get a notification from the grocery stores when anything on their shopping list is added to the foodbox of expired food sold to a much lower price. So it’s not only about the sustainability aspect but has also a great impact on the economical aspect of it.
 
